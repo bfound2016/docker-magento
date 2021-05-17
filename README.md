@@ -143,7 +143,7 @@ This configuration has been tested on Mac & Linux. Windows is supported through 
 Run this automated one-liner from the directory you want to install your project.
 
 ```bash
-curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/onelinesetup | bash -s -- magento.test 2.4.2
+curl -s https://raw.githubusercontent.com/bfound2016/docker-magento/master/lib/onelinesetup | bash -s -- magento.test 2.4.2
 ```
 
 The `magento.test` above defines the hostname to use, and the `2.4.2` defines the Magento version to install. Note that since we need a write to `/etc/hosts` for DNS resolution, you will be prompted for your system password during setup.
@@ -191,7 +191,7 @@ open https://magento.test
 
 ```bash
 # Download the Docker Compose template:
-curl -s https://raw.githubusercontent.com/markshust/docker-magento/master/lib/template | bash
+curl -s https://raw.githubusercontent.com/bfound2016/docker-magento/master/lib/template | bash
 
 # Replace with existing source code of your existing Magento instance:
 cp -R ~/Sites/existing src
@@ -223,7 +223,7 @@ bin/restart
 open https://magento.test
 ```
 
-> For more details on how everything works, see the extended [setup readme](https://github.com/markshust/docker-magento/blob/master/SETUP.md).
+> For more details on how everything works, see the extended [setup readme](https://github.com/bfound2016/docker-magento/blob/master/SETUP.md).
 
 ## Updates
 
