@@ -1,4 +1,4 @@
-<h1 align="center">markshust/docker-magento</h1>
+<h1 align="center">bfound2016/docker-magento</h1>
 
 <div align="center">
   <p>Mark Shust's Docker Configuration for Magento</p>
