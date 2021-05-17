@@ -26,7 +26,7 @@
 
 This course is sponsored by <a href="https://m.academy" target="_blank">M.academy</a>, the simplest way to learn Magento.
 
-<a href="https://m.academy" target="_blank"><img src="https://raw.githubusercontent.com/markshust/docker-magento/master/docs/macademy-logo.png" alt="M.academy"></a>
+<a href="https://m.academy" target="_blank"><img src="https://raw.githubusercontent.com/bfound2016/docker-magento/master/docs/macademy-logo.png" alt="M.academy"></a>
 
 A free screencast course is available, which details the basic usage of this project:
 
